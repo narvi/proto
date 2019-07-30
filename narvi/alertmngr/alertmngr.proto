@@ -1,0 +1,4 @@
+syntax = "proto3";
+package alertmngr;
+option go_package = "github.com/narvi/pkg/alertmngr";
+
